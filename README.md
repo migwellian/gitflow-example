@@ -8,12 +8,12 @@ https://datasift.github.io/gitflow/GitFlowForGitHub.html
 
 ## Features
 
-- git hf feature start gf-for-gh
+- git hf feature start (feature-name)
 - (make changes and commit them)
 - git hf push
 - (create the PR in github)
 - (accept and merge the PR in github)
-- git hf feature finish gf-for-gh
+- git hf feature finish (feature-name)
 
 
 ## Releases
