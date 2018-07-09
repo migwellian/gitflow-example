@@ -19,4 +19,6 @@ https://datasift.github.io/gitflow/GitFlowForGitHub.html
 ## Releases
 
 - git hf release start 0.0.1
- 
+- <make changes and commit them>
+- git hf release finish 0.0.1
+  
